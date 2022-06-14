@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/bin/Debug/net6.0/rectangle-area
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/bin/Debug/net6.0/rectangle-area.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/bin/Debug/net6.0/rectangle-area.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/bin/Debug/net6.0/rectangle-area.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/bin/Debug/net6.0/rectangle-area.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/rectangle-area.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/rectangle-area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/rectangle-area.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/rectangle-area.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/rectangle-area.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/rectangle-area.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/refint/rectangle-area.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/rectangle-area.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/rectangle-area.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/07 - Rectangle-Area/rectangle-area/obj/Debug/net6.0/ref/rectangle-area.dll
